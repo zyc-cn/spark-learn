@@ -23,9 +23,4 @@ object Md5Test {
     }
     hash % prime
   }
-
-  def test(): Unit = {
-    println("hello word")
-  }
-
 }
