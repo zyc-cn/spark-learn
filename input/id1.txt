@@ -1,0 +1,9 @@
+100000,null,21,null,41,51,null
+200000,null,22,null,42,52,null
+300000,null,null,null,43,53,null
+100000,null,null,31,null,51,61
+200000,null,null,null,null,52,62
+300000,null,null,33,null,53,null
+100000,11,21,31,null,null,null
+200000,12,null,32,null,null,null
+300000,13,23,33,null,null,null
